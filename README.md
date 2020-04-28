@@ -2,6 +2,7 @@
 
 ## Deep Learning Course notebooks worth $2,000 are now open source
 ## These notebooks form the basis of fast.ai founder Jeremy Howard’s new book and are used for a $2,000 worth Deep Learning course.
+https://towardsdatascience.com/deep-learning-course-notebooks-worth-2-000-are-now-open-source-7d6bc759ef47
 
 
 
